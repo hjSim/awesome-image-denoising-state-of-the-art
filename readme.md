@@ -143,7 +143,7 @@ This collection is based on the summary of [wenbihan's work](https://github.com/
  * BayerUnify BayerAug [[Web]]() [[Code]](https://github.com/Jiaming-Liu/BayerUnifyAug) [[PDF]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Liu_Learning_Raw_Image_Denoising_With_Bayer_Pattern_Unification_and_Bayer_CVPRW_2019_paper.pdf)
    * Learning Raw Image Denoising With Bayer Pattern Unification and Bayer Preserving Augmentation (CVPR 2019), Liu et al.
  
- * RDU-UD [[Web]]() [[Code]]() [[PDF]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Sim_A_Deep_Motion_Deblurring_Network_Based_on_Per-Pixel_Adaptive_Kernels_CVPRW_2019_paper.pdf)
+ * RDU-UD [[Web]]() [[Code]](https://github.com/hjSim/NTIRE2019_deblur) [[PDF]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Sim_A_Deep_Motion_Deblurring_Network_Based_on_Per-Pixel_Adaptive_Kernels_CVPRW_2019_paper.pdf)
    * A Deep Motion Deblurring Network Based on Per-Pixel Adaptive Kernels With Residual Down-Up and Up-Down Modules (CVPR 2019), Sim et al.
  
  * RIDNet [[Web]]() [[Code]]() [[PDF]](https://arxiv.org/pdf/1904.07396.pdf)
